@@ -7,6 +7,8 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)](https://getbootstrap.com/)
 [![Leaflet](https://img.shields.io/badge/Leaflet-01A68C?logo=leaflet&style=flat-square)](https://leafletjs.com/)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/IP-Geolocation-Finder/)
+
 A simple, 100% free, and open source web application that retrieves geolocation information for a given IP address using the [ip-api.com](http://ip-api.com/) API and displays a dynamic interactive map using [Leaflet](https://leafletjs.com/) with OpenStreetMap tiles.
 
 This project is built with pure HTML, CSS, and JavaScript, and styled using Bootstrap. No registration or API keys are required.
